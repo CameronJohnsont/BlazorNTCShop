@@ -1,0 +1,163 @@
+<Project Sdk="Microsoft.NET.Sdk.BlazorWebAssembly">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\ntc-pics\ABOUT.html" />
+    <None Include="wwwroot\css\ntc-pics\Album_Cover%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\Album_Cover.png" />
+    <None Include="wwwroot\css\ntc-pics\arrow%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\arrow.png" />
+    <None Include="wwwroot\css\ntc-pics\arrow_fv%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\arrow_fv.png" />
+    <None Include="wwwroot\css\ntc-pics\arrow_fw%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\arrow_fw.png" />
+    <None Include="wwwroot\css\ntc-pics\arrow_fx%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\arrow_fx.png" />
+    <None Include="wwwroot\css\ntc-pics\ASTROBOYS%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\ASTROBOYS.png" />
+    <None Include="wwwroot\css\ntc-pics\ASTROBOYS_ci%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\ASTROBOYS_ci.png" />
+    <None Include="wwwroot\css\ntc-pics\ASTROBOYS_ck%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\ASTROBOYS_ck.png" />
+    <None Include="wwwroot\css\ntc-pics\ASTROBOYS_fi%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\ASTROBOYS_fi.png" />
+    <None Include="wwwroot\css\ntc-pics\ASTROBOYS_fq%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\ASTROBOYS_fq.png" />
+    <None Include="wwwroot\css\ntc-pics\ASTROBOYS_fs%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\ASTROBOYS_fs.png" />
+    <None Include="wwwroot\css\ntc-pics\ASTROBOYS_jp%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\ASTROBOYS_jp.png" />
+    <None Include="wwwroot\css\ntc-pics\astronaut-cam%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\astronaut-cam.png" />
+    <None Include="wwwroot\css\ntc-pics\astronaut-riley%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\astronaut-riley.png" />
+    <None Include="wwwroot\css\ntc-pics\balls%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\balls.png" />
+    <None Include="wwwroot\css\ntc-pics\balls_cy%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\balls_cy.png" />
+    <None Include="wwwroot\css\ntc-pics\balls_ee%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\balls_ee.png" />
+    <None Include="wwwroot\css\ntc-pics\balls_g%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\balls_g.png" />
+    <None Include="wwwroot\css\ntc-pics\balls_ga%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\balls_ga.png" />
+    <None Include="wwwroot\css\ntc-pics\balls_hx%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\balls_hx.png" />
+    <None Include="wwwroot\css\ntc-pics\balls_iv%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\balls_iv.png" />
+    <None Include="wwwroot\css\ntc-pics\balls_kc%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\balls_kc.png" />
+    <None Include="wwwroot\css\ntc-pics\blossomback%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\blossomback.png" />
+    <None Include="wwwroot\css\ntc-pics\blossomfront%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\blossomfront.png" />
+    <None Include="wwwroot\css\ntc-pics\chambrayback%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\chambrayback.png" />
+    <None Include="wwwroot\css\ntc-pics\chambrayfront%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\chambrayfront.png" />
+    <None Include="wwwroot\css\ntc-pics\COVER-ART%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\COVER-ART.png" />
+    <None Include="wwwroot\css\ntc-pics\FINAL_ALBUM_COVER%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\FINAL_ALBUM_COVER.png" />
+    <None Include="wwwroot\css\ntc-pics\GALLERY.html" />
+    <None Include="wwwroot\css\ntc-pics\HOME.html" />
+    <None Include="wwwroot\css\ntc-pics\ID753ED2CA-66B1-4610-84E2-DC96%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\ID753ED2CA-66B1-4610-84E2-DC96.png" />
+    <None Include="wwwroot\css\ntc-pics\IMG_0352_1%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\IMG_0352_1.png" />
+    <None Include="wwwroot\css\ntc-pics\IMG_2388%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\IMG_2388.png" />
+    <None Include="wwwroot\css\ntc-pics\IMG_2389%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\IMG_2389.png" />
+    <None Include="wwwroot\css\ntc-pics\IMG_2390%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\IMG_2390.png" />
+    <None Include="wwwroot\css\ntc-pics\IMG_2391%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\IMG_2391.png" />
+    <None Include="wwwroot\css\ntc-pics\IMG_2392%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\IMG_2392.png" />
+    <None Include="wwwroot\css\ntc-pics\MUSIC.html" />
+    <None Include="wwwroot\css\ntc-pics\NASCAR-ServAce.png" />
+    <None Include="wwwroot\css\ntc-pics\NEIGHBORHOOD_TENNIS_CLUB_OFFIC%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\NEIGHBORHOOD_TENNIS_CLUB_OFFIC.png" />
+    <None Include="wwwroot\css\ntc-pics\NEIGHBORHOOD_TENNIS_CLUB_OFFIC_gk%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\NEIGHBORHOOD_TENNIS_CLUB_OFFIC_gk.png" />
+    <None Include="wwwroot\css\ntc-pics\NEIGHBORHOOD_TENNIS_CLUB_OFFIC_hh%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\NEIGHBORHOOD_TENNIS_CLUB_OFFIC_hh.png" />
+    <None Include="wwwroot\css\ntc-pics\NEIGHBORHOOD_TENNIS_CLUB_OFFIC_jb%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\NEIGHBORHOOD_TENNIS_CLUB_OFFIC_jb.png" />
+    <None Include="wwwroot\css\ntc-pics\ntc-background%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\ntc-background.png" />
+    <None Include="wwwroot\css\ntc-pics\NTC-real%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\NTC-real.png" />
+    <None Include="wwwroot\css\ntc-pics\NTC_tennis_ball%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\NTC_tennis_ball.png" />
+    <None Include="wwwroot\css\ntc-pics\NTC_tennis_ball_cz%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\NTC_tennis_ball_cz.png" />
+    <None Include="wwwroot\css\ntc-pics\NTC_tennis_ball_ef%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\NTC_tennis_ball_ef.png" />
+    <None Include="wwwroot\css\ntc-pics\NTC_tennis_ball_g%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\NTC_tennis_ball_g.png" />
+    <None Include="wwwroot\css\ntc-pics\NTC_tennis_ball_gb%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\NTC_tennis_ball_gb.png" />
+    <None Include="wwwroot\css\ntc-pics\NTC_tennis_ball_hy%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\NTC_tennis_ball_hy.png" />
+    <None Include="wwwroot\css\ntc-pics\NTC_tennis_ball_iw%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\NTC_tennis_ball_iw.png" />
+    <None Include="wwwroot\css\ntc-pics\NTC_tennis_ball_kd%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\NTC_tennis_ball_kd.png" />
+    <None Include="wwwroot\css\ntc-pics\play%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\play.png" />
+    <None Include="wwwroot\css\ntc-pics\PROFILE.html" />
+    <None Include="wwwroot\css\ntc-pics\SCARS%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\SCARS.png" />
+    <None Include="wwwroot\css\ntc-pics\Screen_Shot_2018-12-06_at_6113%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\Screen_Shot_2018-12-06_at_6113.png" />
+    <None Include="wwwroot\css\ntc-pics\SHOP.html" />
+    <None Include="wwwroot\css\ntc-pics\SIGNIN.html" />
+    <None Include="wwwroot\css\ntc-pics\SIGNUP.html" />
+    <None Include="wwwroot\css\ntc-pics\skip-icon-png-8%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\skip-icon-png-8.png" />
+    <None Include="wwwroot\css\ntc-pics\skip-icon-png-8_dn%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\skip-icon-png-8_dn.png" />
+    <None Include="wwwroot\css\ntc-pics\sorting-options--v1%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\sorting-options--v1.png" />
+    <None Include="wwwroot\css\ntc-pics\SUNRISExSUNSET%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\SUNRISExSUNSET.png" />
+    <None Include="wwwroot\css\ntc-pics\SUNRISExSUNSET_b%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\SUNRISExSUNSET_b.png" />
+    <None Include="wwwroot\css\ntc-pics\SUNRISExSUNSET_cc%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\SUNRISExSUNSET_cc.png" />
+    <None Include="wwwroot\css\ntc-pics\SUNRISExSUNSET_fk%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\SUNRISExSUNSET_fk.png" />
+    <None Include="wwwroot\css\ntc-pics\THE-FALL-2%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\THE-FALL-2.png" />
+    <None Include="wwwroot\css\ntc-pics\THE-FALL-2_fm%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\THE-FALL-2_fm.png" />
+    <None Include="wwwroot\css\ntc-pics\THEFALL%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\THEFALL.png" />
+    <None Include="wwwroot\css\ntc-pics\THEFALL_b%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\THEFALL_b.png" />
+    <None Include="wwwroot\css\ntc-pics\THEFALL_e%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\THEFALL_e.png" />
+    <None Include="wwwroot\css\ntc-pics\VERTIGO%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\VERTIGO.png" />
+    <None Include="wwwroot\css\ntc-pics\__5cf6b5f0e8d65%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\__5cf6b5f0e8d65.png" />
+    <None Include="wwwroot\css\ntc-pics\__5cf6b5f0e8d65_fo%402x.png" />
+    <None Include="wwwroot\css\ntc-pics\__5cf6b5f0e8d65_fo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="5.0.6" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="5.0.6" PrivateAssets="all" />
+    <PackageReference Include="System.Net.Http.Json" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Shared\BlazorNTCShop.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
